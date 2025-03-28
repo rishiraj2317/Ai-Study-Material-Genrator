@@ -151,9 +151,9 @@ Distributed under the MIT License. See LICENSE for more details.
 ## 📞 Contact
 Project Maintainer:
 
-- Aditya Kumar Singh
-- Email: adiaparmar@gmail.com
-- GitHub: Adiaparmar
+- Rishi Raj
+- Email: rishirajjh1706@gmail.com
+- GitHub: rishiraj2317
 
 ---
 Feel free to reach out with any questions, ideas, or feedback!
